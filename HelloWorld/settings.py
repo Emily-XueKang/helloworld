@@ -25,7 +25,7 @@ SECRET_KEY = 'ge@611-rsm+@egxq%e5u3l2u-sbsee2-z+md)uzj_a3vdp4*+@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['sleepy-cliffs-13634.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['sleepy-cliffs-13634.herokuapp.com','127.0.0.1','helloworld-emily.herokuapp.com']
 
 
 # Application definition
